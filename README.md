@@ -1,2 +1,2 @@
 # arqui_fotos
-Ejecución de distintas operaciones sobre imágenes
+Ejecución de distintas operaciones sobre imágenes como: eliminar colores con menor frecuencia, cambio tamaño imagen, transformar achivos a binario...
